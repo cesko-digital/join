@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://wiki.cesko.digital/x/swUY",
+            "statusCode": 302
+        }
+    ]
+}
